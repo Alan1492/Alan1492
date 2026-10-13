@@ -16,6 +16,28 @@
 
 </div>
 
+<!-- ASCII portrait: stylized, minimal, terminal-style -->
+
+```text
+           ___________________________
+          |  Python REPL              |
+          |  >>> print("Hello")      |
+          |  Hello                    |
+          |___________________________|
+                 \
+                  \
+                   .----.
+                  /      \
+                 |  O  O |
+                 |   --  |   <--- me, printing to the screen
+                 | \__/ |
+                  \____/
+                   /||\\
+                  /_||_\\
+                   /  \
+                  /____\
+```
+
 > Python • Deep Learning • Security Research • Practical Systems
 
 I build and study systems with a focus on Python, AI/ML, security learning, and digital forensics. My work revolves around experimentation, model-building, and turning ideas into working tools.
