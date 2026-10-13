@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#9fe7ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#9fe7ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="skin" x1="0" x2="1">
+      <stop offset="0%" stop-color="#b7704a"/>
+      <stop offset="100%" stop-color="#8f563e"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0d243d"/>
+      <stop offset="100%" stop-color="#132b4d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <circle cx="450" cy="350" r="320" fill="url(#glow)"/>
+
+  <!-- head -->
+  <ellipse cx="455" cy="420" rx="215" ry="250" fill="url(#skin)"/>
+
+  <!-- hair -->
+  <path d="M290 390 C310 180, 620 170, 640 410 C590 300, 520 255, 450 255 C350 255, 315 330, 290 390 Z" fill="#1d120d"/>
+  <path d="M290 390 C322 245, 405 208, 450 220 C500 210, 580 240, 620 390 C585 300, 530 270, 455 270 C375 270, 320 330, 290 390 Z" fill="#2c1a16" opacity="0.9"/>
+
+  <!-- sunglasses -->
+  <rect x="300" y="380" width="150" height="95" rx="18" fill="#1c232b" stroke="#a1b7d1" stroke-width="6"/>
+  <rect x="455" y="380" width="150" height="95" rx="18" fill="#1c232b" stroke="#a1b7d1" stroke-width="6"/>
+  <rect x="450" y="412" width="10" height="35" fill="#a1b7d1"/>
+
+  <!-- eyebrows -->
+  <path d="M330 345 Q380 325 420 350" stroke="#2a1a17" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M485 345 Q535 325 585 350" stroke="#2a1a17" stroke-width="12" fill="none" stroke-linecap="round"/>
+
+  <!-- nose -->
+  <path d="M448 390 Q462 470 450 520" stroke="#8d5b48" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+  <!-- moustache and beard -->
+  <path d="M380 545 Q440 580 455 560 Q470 580 540 545 Q510 610 455 620 Q390 610 380 545 Z" fill="#29201d"/>
+  <path d="M345 535 Q430 610 450 610 Q470 610 560 535" stroke="#2c1f1b" stroke-width="12" fill="none" stroke-linecap="round"/>
+
+  <!-- lips -->
+  <path d="M395 540 Q450 572 510 540" stroke="#8d4e5c" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+  <!-- neck -->
+  <rect x="398" y="620" width="110" height="90" rx="18" fill="#a86a4b"/>
+
+  <!-- shirt -->
+  <path d="M245 700 Q360 630 450 640 Q560 630 655 700 L700 880 L200 880 Z" fill="url(#shirt)"/>
+  <path d="M290 700 L350 820 L350 880 L260 880 Z" fill="#0b1f33" opacity="0.75"/>
+  <path d="M610 700 L550 820 L550 880 L640 880 Z" fill="#0b1f33" opacity="0.75"/>
+
+  <!-- necklace -->
+  <circle cx="454" cy="692" r="8" fill="#d9b056"/>
+  <circle cx="454" cy="712" r="7" fill="#d9b056"/>
+  <circle cx="454" cy="730" r="7" fill="#d9b056"/>
+  <circle cx="454" cy="748" r="7" fill="#d9b056"/>
+  <circle cx="454" cy="766" r="7" fill="#d9b056"/>
+  <circle cx="454" cy="784" r="7" fill="#d9b056"/>
+  <path d="M454 790 L440 815 L468 815 Z" fill="#d9b056"/>
+  <path d="M433 818 L454 835 L475 818" stroke="#d9b056" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+  <!-- highlight + shadows -->
+  <ellipse cx="356" cy="392" rx="52" ry="38" fill="#e8d4c0" opacity="0.3"/>
+  <ellipse cx="518" cy="392" rx="52" ry="38" fill="#e8d4c0" opacity="0.3"/>
+  <path d="M304 510 Q410 570 454 560 Q496 570 590 510" stroke="#4a2f29" stroke-width="8" fill="none" opacity="0.4"/>
+</svg>
