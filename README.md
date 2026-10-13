@@ -1,9 +1,5 @@
-# ALAN JOSEPH ABRAHAM
 
-<div align="center">
-</div>
 
-<div align="center">
 
   <h1>
     <span style="color:#00F5FF;">ALAN</span>
