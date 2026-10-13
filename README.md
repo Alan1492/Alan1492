@@ -1,7 +1,6 @@
 # ALAN JOSEPH ABRAHAM
 
 <div align="center">
-  <img src="assets/profile-gif.svg" alt="Alan avatar" width="220" height="220" style="border-radius: 50%; border: 2px solid #00F5FF; box-shadow: 0 0 24px rgba(0,245,255,0.35); background: #000;" />
 </div>
 
 <div align="center">
