@@ -1,159 +1,214 @@
  <div align="center">
 
-# <span style="color:#00FF41;">ALAN</span> <span style="color:#E5E7EB;">JOSEPH</span> <span style="color:#FF003C;">ABRAHAM</span>
+# <span style="color:#38BDF8;">ALAN</span> JOSEPH ABRAHAM
+
+<sub>CYBER FORENSICS & INFORMATION SECURITY · BLUE TEAM · AI / ML</sub>
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║  ROOT@ALAN1492:~# INITIALIZING SECURE ENVIRONMENT    ║
-╚══════════════════════════════════════════════════════╝
+┌─[ alan@blue-lab ]─[ ~/security ]
+└──╼ ./init.sh --mode=blue-team
 ```
 
-```text
-[+] Identity     : Alan Joseph Abraham
-[+] Domain       : Cybersecurity & Digital Forensics
-[+] Environment  : AI / ML / Python
-[+] Mission      : Analyze. Investigate. Secure.
-[+] Access       : GRANTED
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Digital+Forensics;Threat+Analysis+%7C+Incident+Investigation;AI+%2F+ML+for+Intelligent+Security;Python+Developer+%7C+Security+Researcher;Breaking+Down+Systems+to+Understand+Them" alt="Typing profile banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Researcher;Cybersecurity+Learner;Data+Enthusiast" alt="Typing profile banner" />
 
 <p>
-  <img alt="status online" src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF41?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="focus cybersecurity" src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-FF003C?style=flat-square&logo=hackthebox&logoColor=white" />
-  <img alt="security DFIR" src="https://img.shields.io/badge/DOMAIN-DFIR-00D9FF?style=flat-square&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/KALI_LINUX-SECURITY_LAB-111827?style=for-the-badge&logo=kalilinux&logoColor=38BDF8" alt="Kali Linux security lab" />
+  <img src="https://img.shields.io/badge/BLUE_TEAM-DEFENSIVE_SECURITY-111827?style=for-the-badge&logo=shield&logoColor=38BDF8" alt="Blue team defensive security" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-111827?style=flat-square&logo=signal&logoColor=38BDF8" alt="Online status" />
+  <img src="https://img.shields.io/badge/DOMAIN-DFIR-111827?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Digital forensics" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-111827?style=flat-square&logo=shield&logoColor=38BDF8" alt="Cybersecurity focus" />
 </p>
 
 <img src="make_portrait.svg" alt="Neon binary portrait of Alan Joseph Abraham" width="420" />
 
-```text
-[ CYBERSECURITY ]  [ DIGITAL FORENSICS ]  [ AI / ML ]
-```
+`DETECT` · `INVESTIGATE` · `RESPOND` · `IMPROVE`
 
 </div>
 
 ---
 
-## `01 // whoami`
-
-```bash
-root@alan1492:~$ cat identity.txt
-```
-
-I'm an M.Tech student specializing in **Cyber Forensics & Information Security**, interested in understanding how systems fail, how attacks unfold, and how digital evidence can reveal what happened.
-
-My work combines cybersecurity exploration, digital forensics, Python development, and AI/ML experimentation to build practical tools and investigate technical problems.
-
-```text
-┌──[ OPERATOR PROFILE ]
-│
-├── Education  : M.Tech — Cyber Forensics & Information Security
-├── Security   : Cybersecurity & Digital Forensics
-├── Research   : AI/ML, Autoencoders, Sequence Modeling
-├── Language   : Python
-├── Approach   : Analyze → Investigate → Build → Improve
-└── Status     : CONTINUOUSLY LEARNING
-```
-
-## `02 // security_operations`
-
-```bash
-root@alan1492:~$ ./security_focus.sh
-```
-
-```text
-[01] DIGITAL FORENSICS
-     ├── Digital evidence examination
-     ├── Artifact analysis
-     └── Incident investigation
-
-[02] CYBERSECURITY
-     ├── Network security fundamentals
-     ├── Threat detection and analysis
-     └── Security experimentation
-
-[03] AI FOR SECURITY
-     ├── Anomaly detection
-     ├── Neural networks and autoencoders
-     └── Machine learning experimentation
-
-[04] TOOL DEVELOPMENT
-     ├── Python automation
-     ├── Data analysis
-     └── Practical security utilities
-```
-
-*Areas of exploration — not a claim of professional expertise in every listed domain.*
-
-## `03 // tech_stack`
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-```text
-[LANGUAGES]       Python | Bash
-[AI / ML]         TensorFlow | Keras | Neural Networks
-[DATA]            NumPy | Pandas | Jupyter
-[APPLICATIONS]    Streamlit
-```
-
-## `04 // deployed_projects`
-
-```bash
-root@alan1492:~$ ls -la ~/repositories/
-```
-
 <table>
   <tr>
-    <td>
-      <strong><a href="https://github.com/Alan1492/Autoencoders-in-CNN-and-LSTM">01. Autoencoders-in-CNN-and-LSTM</a></strong><br /><br />
-      <code>[ AI / DEEP LEARNING ]</code><br />
-      CNN and LSTM autoencoder experiments focused on representation learning.
+    <td width="24%" align="center" valign="top">
+      <strong>DEFENSE</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/BLUE_TEAM-38BDF8?style=flat-square" alt="Blue team" />
+      <br /><br />
+      <sub>Threat monitoring</sub>
+      <br />
+      <sub>Security analysis</sub>
+      <br />
+      <sub>Incident response</sub>
+      <br />
+      <sub>Network defense</sub>
     </td>
-    <td>
-      <strong><a href="https://github.com/Alan1492/Sequence-Autoencoder-Using-RNN-LSTM-RNN-LSTM-based-Autoencoder-">02. Sequence Autoencoder</a></strong><br /><br />
-      <code>[ SEQUENCE MODELING ]</code><br />
-      Exploring sequence-based learning with recurrent neural networks.
+    <td width="76%" valign="top">
+
+## `01 // whoami`
+
+```text
+alan@blue-lab:~$ whoami
+```
+
+I'm an M.Tech student specializing in **Cyber Forensics & Information Security**, interested in defensive security, digital evidence investigation, Python development, and AI/ML.
+
+I explore how systems behave, how suspicious activity can be detected, and how technical evidence can support security investigations.
+
     </td>
   </tr>
   <tr>
-    <td>
-      <strong><a href="https://github.com/Alan1492/Streamlit2">03. Streamlit2</a></strong><br /><br />
-      <code>[ PYTHON / DATA APPS ]</code><br />
-      Interactive applications and Python experimentation.
+    <td width="24%" align="center" valign="top">
+      <strong>FORENSICS</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/DFIR-38BDF8?style=flat-square" alt="Digital forensics" />
+      <br /><br />
+      <sub>Digital evidence</sub>
+      <br />
+      <sub>Artifact analysis</sub>
+      <br />
+      <sub>Incident timelines</sub>
+      <br />
+      <sub>Investigation</sub>
     </td>
-    <td>
-      <strong>04. Next Investigation</strong><br /><br />
-      <code>[ CLASSIFIED: IN PROGRESS ]</code><br />
-      More experiments, security tools, and research projects loading...
+    <td width="76%" valign="top">
+
+### `operator_profile`
+
+```text
+┌──[ SECURITY RESEARCH ]
+├── Education  :: M.Tech — Cyber Forensics & Information Security
+├── Interests  :: Blue Teaming & Digital Forensics
+├── Research   :: AI/ML & Anomaly Detection
+├── Development:: Python & Automation
+└── Approach   :: Observe → Analyze → Investigate
+```
+
     </td>
   </tr>
 </table>
 
-## `05 // active_learning`
+## `02 // security_operations`
+
+<div align="center">
 
 ```text
-┌─[ LEARNING PIPELINE ]
-│
-├── [x] Neural networks
-├── [x] Autoencoders
-├── [x] Sequence modeling
-├── [x] Interactive AI tools
-├── [x] Cybersecurity fundamentals
-├── [x] Digital forensics
-├── [ ] Network traffic analysis
-├── [ ] Threat detection experiments
-├── [ ] AI-assisted security research
-└── [ ] More open-source security tools
+╔══════════════════════════════════════════════════════════╗
+║                  BLUE TEAM OPERATIONS                   ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [01] DETECT       -> Identify suspicious activity       ║
+║  [02] ANALYZE      -> Examine logs and network events    ║
+║  [03] INVESTIGATE  -> Correlate digital evidence         ║
+║  [04] RESPOND      -> Apply defensive procedures         ║
+║  [05] IMPROVE      -> Refine detection and analysis      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/KALI_LINUX-111827?style=for-the-badge&logo=kalilinux&logoColor=38BDF8" alt="Kali Linux" />
+      <br /><br />
+      <strong>Security Lab</strong>
+      <br />
+      <sub>Linux tools and security experimentation</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/BLUE_TEAM-111827?style=for-the-badge&logo=shield&logoColor=38BDF8" alt="Blue team" />
+      <br /><br />
+      <strong>Defensive Security</strong>
+      <br />
+      <sub>Detection and incident handling</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AI_SECURITY-111827?style=for-the-badge&logo=tensorflow&logoColor=38BDF8" alt="AI security" />
+      <br /><br />
+      <strong>Intelligent Detection</strong>
+      <br />
+      <sub>Machine learning and anomaly detection</sub>
+    </td>
+  </tr>
+</table>
+
+## `03 // technology_stack`
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=38BDF8" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=38BDF8" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=38BDF8" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-111827?style=for-the-badge&logo=keras&logoColor=38BDF8" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=38BDF8" />
+</p>
+
+```text
+[ DEVELOPMENT ]    Python · Bash
+[ AI / ML ]        TensorFlow · Keras · Neural Networks
+[ DATA ANALYSIS ]  NumPy · Pandas · Jupyter
+[ APPLICATIONS ]   Streamlit
+[ SECURITY ]       Linux · Blue-team learning · Digital forensics
+```
+
+## `04 // project_archive`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Alan1492/Autoencoders-in-CNN-and-LSTM">Autoencoders-in-CNN-and-LSTM</a></strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/DOMAIN-DEEP_LEARNING-111827?style=flat-square&logo=tensorflow&logoColor=38BDF8" alt="Deep learning" />
+      <br /><br />
+      CNN and LSTM autoencoder experiments exploring neural network representations.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Alan1492/Sequence-Autoencoder-Using-RNN-LSTM-RNN-LSTM-based-Autoencoder-">Sequence Autoencoder</a></strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/DOMAIN-SEQUENCE_MODELING-111827?style=flat-square&logo=python&logoColor=38BDF8" alt="Sequence modeling" />
+      <br /><br />
+      Sequence-based learning experiments using recurrent neural networks.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Alan1492/Streamlit2">Streamlit2</a></strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/DOMAIN-PYTHON_APPS-111827?style=flat-square&logo=streamlit&logoColor=38BDF8" alt="Python applications" />
+      <br /><br />
+      Interactive Python applications and experimentation.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Next Investigation</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-111827?style=flat-square" alt="In progress" />
+      <br /><br />
+      Exploring ideas in defensive security, forensics, automation, and intelligent systems.
+    </td>
+  </tr>
+</table>
+
+## `05 // learning_roadmap`
+
+### AI & Engineering
+
+- [x] Neural networks
+- [x] Autoencoders
+- [x] Sequence modeling
+- [x] Interactive AI tools
+
+### Security & Forensics
+
+- [x] Cybersecurity fundamentals
+- [x] Digital forensics learning
+- [ ] Network traffic analysis
+- [ ] Threat detection experiments
 
 ## `06 // github_intelligence`
 
@@ -165,30 +220,30 @@ root@alan1492:~$ ls -la ~/repositories/
 
 ## `07 // establish_connection`
 
-```bash
-root@alan1492:~$ ./connect.sh --protocol=github
-```
-
 <p>
   <a href="https://github.com/Alan1492">
-    <img alt="GitHub @Alan1492" src="https://img.shields.io/badge/GITHUB-@Alan1492-00FF41?style=for-the-badge&logo=github&logoColor=black" />
+    <img alt="GitHub @Alan1492" src="https://img.shields.io/badge/GITHUB-@Alan1492-111827?style=for-the-badge&logo=github&logoColor=38BDF8" />
   </a>
   <a href="#">
-    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
   </a>
 </p>
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║  SESSION STATUS : ACTIVE                             ║
-║  SECURITY MODE  : ENABLED                            ║
-║  OPERATOR       : ALAN1492                           ║
-║  NEXT OBJECTIVE : KEEP BUILDING                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║              BLUE TEAM // SESSION SUMMARY               ║
+╠══════════════════════════════════════════════════════════╣
+║  OPERATOR    : ALAN1492                                  ║
+║  ENVIRONMENT : SECURITY LAB                              ║
+║  SPECIALTY   : CYBER FORENSICS & INFORMATION SECURITY    ║
+║  MINDSET     : DETECT · INVESTIGATE · IMPROVE            ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-<code>Think like an investigator. Build like an engineer. Secure by design.</code>
+**Understand the threat. Preserve the evidence. Strengthen the defense.**
+
+<sub>CYBERSECURITY · DIGITAL FORENSICS · AI / ML · BLUE TEAM</sub>
 
 </div>
