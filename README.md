@@ -15,7 +15,7 @@
   <img alt="security DFIR" src="https://img.shields.io/badge/SECURITY-DFIR-7C3AED?style=flat-square&logo=shield&logoColor=white" />
 </p>
 
-<img src="make_potrait.svg" alt="Neon binary portrait of Alan Joseph Abraham" width="420" />
+<img src="make_portrait.svg" alt="Neon binary portrait of Alan Joseph Abraham" width="420" />
 
 > `Python` • `Deep Learning` • `Security Research` • `Practical Systems`
 
