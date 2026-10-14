@@ -1,22 +1,21 @@
- 
-  <h1>
-    <span style="color:#00F5FF;">ALAN</span>
-    <span style="color:#E5E7EB;">JOSEPH</span>
-    <span style="color:#FF4D6D;">ABRAHAM</span>
-  </h1>
+<h1>
+  <span style="color:#00F5FF;">ALAN</span>
+  <span style="color:#E5E7EB;">JOSEPH</span>
+  <span style="color:#FF4D6D;">ABRAHAM</span>
+</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Researcher;Cybersecurity+Learner;D[...]" 
+<!-- Typing banner: use a proper, closed img tag so it renders instead of showing as raw text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Researcher;Cybersecurity+Learner;Data+Enthusiast" alt="typing" />
+</p>
 
-  <p>
-    <img alt="status" src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=flat-square&logo=signal&logoColor=black" />
-    <img alt="focus" src="https://img.shields.io/badge/FOCUS-AI_%26_ML-FF4D6D?style=flat-square&logo=brain&logoColor=white" />
-    <img alt="security" src="https://img.shields.io/badge/SECURITY-DFIR-7C3AED?style=flat-square&logo=shield&logoColor=white" />
-  </p>
+<p>
+  <img alt="status" src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=flat-square&logo=signal&logoColor=black" />
+  <img alt="focus" src="https://img.shields.io/badge/FOCUS-AI_%26_ML-FF4D6D?style=flat-square&logo=brain&logoColor=white" />
+  <img alt="security" src="https://img.shields.io/badge/SECURITY-DFIR-7C3AED?style=flat-square&logo=shield&logoColor=white" />
+</p>
 
-</div>
-
-<!-- Portrait: SVG image added below -->
-
+<!-- Portrait: SVG image placed under the header and typing banner -->
 <div align="center">
   <img src="make_portrait.svg" alt="Alan portrait" width="280" />
 </div>
@@ -102,4 +101,3 @@ I build and study systems with a focus on Python, AI/ML, security learning, and 
 <div align="center">
   <img src="https://img.shields.io/badge/STATE-NEON_MODE-00F5FF?style=for-the-badge" />
 </div>
-
