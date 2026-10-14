@@ -1,13 +1,11 @@
-
-
-
+ 
   <h1>
     <span style="color:#00F5FF;">ALAN</span>
     <span style="color:#E5E7EB;">JOSEPH</span>
     <span style="color:#FF4D6D;">ABRAHAM</span>
   </h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Researcher;Cybersecurity+Learner;Deep+Learning+Explorer;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Researcher;Cybersecurity+Learner;D[...]" 
 
   <p>
     <img alt="status" src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=flat-square&logo=signal&logoColor=black" />
@@ -17,27 +15,11 @@
 
 </div>
 
-<!-- ASCII portrait: stylized, minimal, terminal-style -->
+<!-- Portrait: SVG image added below -->
 
-```text
-           ___________________________
-          |  Python REPL              |
-          |  >>> print("Hello")      |
-          |  Hello                    |
-          |___________________________|
-                 \
-                  \
-                   .----.
-                  /      \
-                 |  O  O |
-                 |   --  |   <--- me, printing to the screen
-                 | \__/ |
-                  \____/
-                   /||\\
-                  /_||_\\
-                   /  \
-                  /____\
-```
+<div align="center">
+  <img src="make_portrait.svg" alt="Alan portrait" width="280" />
+</div>
 
 > Python • Deep Learning • Security Research • Practical Systems
 
